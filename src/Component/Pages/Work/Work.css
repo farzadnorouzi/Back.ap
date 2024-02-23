@@ -1,0 +1,19 @@
+.Working{
+    text-align: center;
+    margin-top: 150px;
+}
+
+.btn{
+    text-align: center;
+}
+
+.btn2{
+    width: 10%;
+    background-color: rgb(245, 85, 85);
+    border-radius: 1rem;
+    color: #fff;
+}
+
+.btn2:hover{
+    border-color: blue;
+}

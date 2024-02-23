@@ -1,0 +1,16 @@
+.btn{
+ margin-top: 15px;
+ margin-left: 20px;
+
+}
+
+.btn1{
+    background-color: red;
+    color: #fff;
+    border-radius: 1rem;
+    padding: 10px;
+}
+
+.btn1:hover{
+    border-color: blue;
+}

@@ -1,0 +1,32 @@
+.conteiner{
+    justify-content: space-between;
+   border-bottom: solid #000000;
+   background-color: #f3ebeb;
+   display: flex;
+   direction: rtl;
+   overflow: hidden;
+   position: sticky;
+   position: -webkit-sticky;
+   top: 0;
+}
+
+nav ul{
+   display: flex;
+   align-items: center;
+   direction: rtl;
+   
+}
+
+nav li{
+    padding: 20px;
+    list-style: none;
+    text-decoration: none;
+}
+
+nav a{
+    text-decoration: none;
+}
+
+nav li:hover{
+    border-bottom:solid red;
+}

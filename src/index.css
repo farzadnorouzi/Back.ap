@@ -1,0 +1,14 @@
+*{
+  padding: 0;
+  margin: 0;
+ font-family: IRANSansweb;
+}
+
+body{
+  font-family: IRANSansweb;
+}
+
+@font-face {
+  font-family: "IRANSansweb";
+  src: url("../public/Fonts/Sans\ a4fran3.ttf") format(truetype);
+}

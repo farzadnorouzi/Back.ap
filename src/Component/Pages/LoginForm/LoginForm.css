@@ -1,0 +1,31 @@
+.parent{
+    background-image: url('https://th.bing.com/th/id/R.8cf723eccfd47657db4fc9977e459a84?rik=bOGOl%2f4UeWkRJA&pid=ImgRaw&r=0');
+    height: 800px;
+}
+
+.Form{
+    width: 40%;
+    height: 400px;
+    box-shadow: 3px 3px 5px;
+    margin: 80px auto;
+    border-radius: 1rem;
+   
+}
+
+.Form form{
+    padding: 80px;
+   
+    
+}
+
+.Form label{
+    display: flex;
+    direction: rtl;
+    
+}
+
+.Form input{
+    width: 80%;
+    display: flex;
+   
+}
