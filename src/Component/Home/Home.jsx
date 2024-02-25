@@ -1,5 +1,7 @@
-import Navbar from "../Navbar/Navbar"
+
 import Searchbox from "../Searchbox/Searchbox";
+
+
 import "./Home.css"
 
 
@@ -8,9 +10,12 @@ import "./Home.css"
 function Home() {
     return(
         <div>
-            <Navbar />
+          
             <div className="text"><h3>ریکه برای خوش پوش ها</h3></div>
+            
             <Searchbox />
+            
+           
             Lorem, ipsum dolor sit amet consectetur adipisicing elit. Placeat tenetur, tempora magni quibusdam eligendi laboriosam nihil nam eius recusandae non pariatur ut. Similique fuga debitis inventore ipsum nisi, nobis ducimus.
             Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sunt adipisci nobis fuga officia, ea perferendis, dolore esse, possimus laudantium cupiditate aperiam sint tenetur ducimus delectus? Id pariatur recusandae maiores excepturi.
 
@@ -89,4 +94,4 @@ function Home() {
     
 }
 
-export default Home
+        export default Home

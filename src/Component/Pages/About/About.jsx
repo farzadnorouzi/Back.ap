@@ -1,4 +1,3 @@
-import Navbar from "../../Navbar/Navbar";
 import "./About.css";
 
 
@@ -7,7 +6,7 @@ import "./About.css";
 function About() {
     return(
         <>
-        <Navbar />
+      
         <div className="About1">
                <h3>درباره ما</h3>
             <p>سلام ما مجموعه ریکه هستیم که ما در حوزه پوشاک در سال1392به فعالیت خود در این زمینه شروع کردیم ما اکنون بیش از 30شعبه فعال در سراسر 

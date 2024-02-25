@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom"
 import Login from "../Login/Login"
-import "./Navbar.css"
+import "./nav.css"
 
 function Navbar() {
     return(

@@ -3,12 +3,11 @@ import { FaInstagram } from "react-icons/fa";
 import { FaTelegramPlane } from "react-icons/fa";
 import { FaTwitter } from "react-icons/fa";
 import { FaWhatsapp } from "react-icons/fa";
-import Navbar from "../../Navbar/Navbar";
 
 function Conect() {
     return(
         <>
-        <Navbar />
+        
         <div className="Conect1">
             <h1>rike</h1>
             <p>برای تماس با ما از طریق شماره تماس های زیر اقدام نمایید

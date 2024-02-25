@@ -1,10 +1,10 @@
-import Navbar from "../../Navbar/Navbar";
+
 import "./Work.css";
 
 function Work() {
     return(
         <>
-        <Navbar />
+       
         <div className="Working"><h3>ما به افرادی  با ادب و پرتلاش و منظم همیشه در مجموعه خود نیاز داریم
              اگر شما از این خصوصیات برخردارین و دنبال کار
               هستین مجموعه
